@@ -20,5 +20,5 @@ Modify the content in the index.html to customize the site.
 
 🌟 Features
 Responsive design.
-Pre-built Bootstrap components (buttons, cards, modals, etc.)
+Pre-built Bootstrap components (checkbox, container, cards, modals, etc.)
 Easy customization.
